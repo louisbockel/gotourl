@@ -14,7 +14,7 @@ For the niche folks out there stuck in a game or app where the browser lacks a U
 
 ## How to Use It (Because It’s Super Complicated)
 
-1. Go to [https://redirect.xecutiv.net/](https://redirect.xecutiv.net/) or [https://gotourl.org/](https://gotourl.org/).
+1. Type "gotourl org" into google or any other search engine to go to **[GoToUrl](https://gotourl.org/)**, or "github gotourl" to get to this GitHub repository: **[GitHub](https://github.com/louisbockel/gotourl)**
 2. Type your URL in the box (you know how this works).
 3. Click "Go." That’s it. Seriously.
 
